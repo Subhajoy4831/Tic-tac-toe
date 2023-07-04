@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  background-color: #efefef;
+  font-family: "Arial";
+}
+
+.heading{
+  text-align: center;
+  border: 3px solid green;
+  border-left: none;
+  border-right: none;
+}
